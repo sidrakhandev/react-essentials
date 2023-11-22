@@ -9,6 +9,7 @@ function getRandomNumber(max) {
 
 export default function Header() {
   const title = reactDescriptions[getRandomNumber(2)];
+
   return (
     <header>
       <img src={conceptsImg} alt="Stylized atom" />
