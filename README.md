@@ -10,12 +10,13 @@ This repository is a practice ground for mastering React essentials using indust
 
 ## Screenshots or GIFs
 
-![image](https://github.com/sidrakhandev/react-essentials/assets/53394560/6eb71ef5-9c51-42f0-bf71-736b8de13f7e)
-![image](https://github.com/sidrakhandev/react-essentials/assets/53394560/8c388c41-9c96-4f82-a9bf-cfb29627f212)
-![image](https://github.com/sidrakhandev/react-essentials/assets/53394560/7e391f8b-dfcf-48ea-b957-d9abc6b4fb1b)
-![image](https://github.com/sidrakhandev/react-essentials/assets/53394560/40f744d2-cb1b-4e6d-a6e5-1d1a1e29391f)
-![image](https://github.com/sidrakhandev/react-essentials/assets/53394560/46504057-65c2-42ad-8d6c-c3001167b56a)
-![image](https://github.com/sidrakhandev/react-essentials/assets/53394560/0c1a1d61-fb69-4ad9-9e01-6b134d798e41)
+![image](https://github.com/sidrakhandev/react-essentials/assets/53394560/180f5cff-cb7e-442d-873e-8aee5d1b43aa)
+![image](https://github.com/sidrakhandev/react-essentials/assets/53394560/73fcde80-7994-4105-925b-62e02d91d7ff)
+![image](https://github.com/sidrakhandev/react-essentials/assets/53394560/e9fc4a69-6a78-4a25-9e77-d97f9e6ca3a1)
+![image](https://github.com/sidrakhandev/react-essentials/assets/53394560/11ca2dbb-bf66-4a81-92de-1cdef6f70211)
+![image](https://github.com/sidrakhandev/react-essentials/assets/53394560/1d92f959-7d48-4027-a765-a5a8e0ae4143)
+![image](https://github.com/sidrakhandev/react-essentials/assets/53394560/58387323-c3a0-4dc1-9baa-32655b9b6321)
+![image](https://github.com/sidrakhandev/react-essentials/assets/53394560/a9967367-9f47-48ca-a318-1545fa20b0bc)
 
 
 
